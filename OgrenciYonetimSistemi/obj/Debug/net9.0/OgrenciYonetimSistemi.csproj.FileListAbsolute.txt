@@ -1,0 +1,14 @@
+/Users/muhammetalikarakaya/Desktop/OgrenciYonetimSistemi/bin/Debug/net9.0/OgrenciYonetimSistemi
+/Users/muhammetalikarakaya/Desktop/OgrenciYonetimSistemi/bin/Debug/net9.0/OgrenciYonetimSistemi.deps.json
+/Users/muhammetalikarakaya/Desktop/OgrenciYonetimSistemi/bin/Debug/net9.0/OgrenciYonetimSistemi.runtimeconfig.json
+/Users/muhammetalikarakaya/Desktop/OgrenciYonetimSistemi/bin/Debug/net9.0/OgrenciYonetimSistemi.dll
+/Users/muhammetalikarakaya/Desktop/OgrenciYonetimSistemi/bin/Debug/net9.0/OgrenciYonetimSistemi.pdb
+/Users/muhammetalikarakaya/Desktop/OgrenciYonetimSistemi/obj/Debug/net9.0/OgrenciYonetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammetalikarakaya/Desktop/OgrenciYonetimSistemi/obj/Debug/net9.0/OgrenciYonetimSistemi.AssemblyInfoInputs.cache
+/Users/muhammetalikarakaya/Desktop/OgrenciYonetimSistemi/obj/Debug/net9.0/OgrenciYonetimSistemi.AssemblyInfo.cs
+/Users/muhammetalikarakaya/Desktop/OgrenciYonetimSistemi/obj/Debug/net9.0/OgrenciYonetimSistemi.csproj.CoreCompileInputs.cache
+/Users/muhammetalikarakaya/Desktop/OgrenciYonetimSistemi/obj/Debug/net9.0/OgrenciYonetimSistemi.dll
+/Users/muhammetalikarakaya/Desktop/OgrenciYonetimSistemi/obj/Debug/net9.0/refint/OgrenciYonetimSistemi.dll
+/Users/muhammetalikarakaya/Desktop/OgrenciYonetimSistemi/obj/Debug/net9.0/OgrenciYonetimSistemi.pdb
+/Users/muhammetalikarakaya/Desktop/OgrenciYonetimSistemi/obj/Debug/net9.0/OgrenciYonetimSistemi.genruntimeconfig.cache
+/Users/muhammetalikarakaya/Desktop/OgrenciYonetimSistemi/obj/Debug/net9.0/ref/OgrenciYonetimSistemi.dll
